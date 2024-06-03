@@ -1,0 +1,11 @@
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\service\WasteManagementService.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\repository\RecyclingTipRepository.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\model\DisposalGuideline.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\repository\repositoryInterfaces.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\repository\WasteCategoryRepository.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\SecurityConfig.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\model\RecyclingTip.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\controller\WasteManagementController.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\model\WasteCategory.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\Enviro365Application.class
+com\enviro\assessment\grad001\thebeetsileaaronlekomanyane\repository\DisposalGuidelineRepository.class
