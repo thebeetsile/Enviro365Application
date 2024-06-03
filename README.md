@@ -18,7 +18,7 @@ Jakarta EE (Java EE) for API specifications
 
 
 Installation
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone https://github.com/thebeetsile/Enviro365Application.git
 Navigate to the project directory: cd Enviro365Application
 Build the project: mvn clean install
 Run the application: mvn spring-boot:run
